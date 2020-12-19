@@ -3,10 +3,10 @@
 :heart: **Career**  
 |Type|Date|Contents|Organization|
 |:----------:|:----------:|:----------:|:----------:|
-|Education|2018.3 ~ |*Major : BigDataEngineering, Double Major : SmartCare*|SoonChunHyang University|
-|Research activities|2020.7 ~ | *Undergraduate Research Students*|SoonChunHyang Univ.AI Research lab|
+|Education|2018.3 ~ |*Major : BigDataEngineering, Double Major : SmartCare*|Soonchunhyang University|
+|Research activities|2020.7 ~ | *Undergraduate Research Students*|Soonchunhyang Univ.AI Research lab|
 
-:green_heart: **Languages and Tools**
+:green_heart: **Languages and Tools**  
 
 :yellow_heart: **Certificate**
 - ADsP

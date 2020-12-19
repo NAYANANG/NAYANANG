@@ -1,16 +1,15 @@
-### Hi there 👋
+## :wave: Hello, My name is Seoyeon!  
 
-<!--
-**NAYANANG/NAYANANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:heart: **Career**  
+|Type|Date|Contents|Organization|
+|:----------:|:----------:|:----------:|:----------:|
+|Education|2018.3 ~ |*Major : BigDataEngineering, Double Major : SmartCare*|SoonChunHyang University|
+|Research activities|2020.7 ~ | *Undergraduate Research Students*|SoonChunHyang Univ.AI Research lab|
 
-Here are some ideas to get you started:
+:green_heart: **Languages and Tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:yellow_heart: **Certificate**
+- ADsP
+- SQLD
+
+:purple_heart: **Contacts**

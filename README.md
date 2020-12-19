@@ -12,4 +12,8 @@
 - ADsP
 - SQLD
 
+:blue_heart: **Project**
+
+:sparkling_heart: **Awards**
+
 :purple_heart: **Contacts**

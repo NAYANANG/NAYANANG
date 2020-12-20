@@ -6,9 +6,9 @@
 |Education|2018.3 ~ |*Major : BigDataEngineering, Double Major : SmartCare*|Soonchunhyang University|
 |Research activities|2020.7 ~ | *Undergraduate Research Students*|Soonchunhyang Univ.AI Research lab|
 
-:green_heart: **Project**
-
 :sparkling_heart: **Awards**
+
+:green_heart: **Project**
 
 :blue_heart: **Languages and Tools**  
 

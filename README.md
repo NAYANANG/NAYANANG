@@ -13,8 +13,8 @@
 :blue_heart: **Languages and Tools**  
 
 :yellow_heart: **Qualification**
-- ADsP
-- SQLD
+- Advanced Data Analytics Semi-Professional
+- SQL Developer
 - Graphic Technology Qualification Level-2
 
 :yellow_heart: **Certificate**

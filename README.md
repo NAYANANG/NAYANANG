@@ -12,8 +12,12 @@
 
 :blue_heart: **Languages and Tools**  
 
-:yellow_heart: **Certificate**
+:yellow_heart: **Qualification**
 - ADsP
 - SQLD
+- Graphic Technology Qualification Level-2
+
+:yellow_heart: **Certificate**
+- Industry-Academic cooperation education based on HIRA big data
 
 :purple_heart: **Contacts**

@@ -15,6 +15,7 @@
 :yellow_heart: **Qualification**
 - Advanced Data Analytics Semi-Professional
 - SQL Developer
+- Data Architecture Semi-Professional
 - Graphic Technology Qualification Level-2
 
 :yellow_heart: **Certificate**

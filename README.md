@@ -1,4 +1,4 @@
-## :wave: Hello, My name is Seoyeon!  
+## :wave: Data Analyst 'NAYANANG'
 
 :heart: **Career**  
 |Type|Date|Contents|Organization|

@@ -4,7 +4,7 @@
 |Type|Date|Contents|Organization|
 |:----------:|:----------:|:----------:|:----------:|
 |Education|2018.3 ~ |*Major : BigDataEngineering, Double Major : SmartCare*|Soonchunhyang University|
-|Research activities|2020.7 ~ | *Undergraduate Research Students*|Soonchunhyang Univ.AI Research lab|
+|Research activities|2020.7 ~ 2021.6 , 2021.9 ~ 2021.12| *Undergraduate Research Students*|Soonchunhyang Univ.AI Research lab|
 |Intern|2021.7 ~ 2021.8| *research intern*|ETRI, Electronics and Telecommunications Research Institute|
 
 :sparkling_heart: **Awards**

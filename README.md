@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=#9173d98&height=300&section=header&text=Seoyeon%20OH&fontSize=90)  
+
 ## :wave: Data Analyst 'NAYANANG'
 
 :heart: **Career**  
@@ -20,3 +22,9 @@ R
 
 
 :purple_heart: **Contacts**
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAYANANG&show_icons=true&theme=buefy)   
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAYANANG&layout=compact&theme=buefy)

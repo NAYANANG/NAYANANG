@@ -22,7 +22,7 @@ AWARD AWARD AWARD AWARD AWARD
 
   
 :purple_heart: **GITHUB STATS** :purple_heart:  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAYANANG&show_icons=true&theme=buefy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAYANANG&layout=compact&theme=buefy)
+[![NAYANANG github stats](https://github-readme-stats.vercel.app/api?username=NAYANANG&count_private=TRUE&custom_title=NAYANANG_GITHUB&bg_color=60,faccbc,a82da8&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAYANANG&bg_color=120,faccbc,a82da8&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
  
 

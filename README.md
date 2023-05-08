@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:faccbc,100:a82da8&animation=twinkling&height=300&section=header&text=Seoyeon%20OH&fontSize=90&fontColor=ffffff)  
 
-#### #Evelynn_OH  #NAYANANG  
+#### #Evelynn  #NAYANANG  
 
 AWARD AWARD AWARD AWARD AWARD
 
